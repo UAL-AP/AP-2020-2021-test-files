@@ -12,7 +12,9 @@ IJ Alice Bob
 10 5 4
 3 3 2 2 2
 CP Alice 3 1 D
+DJ
 CP Bob 3 4 E
+DJ
 G jogo.save
 CP Alice 3 2 D
 V
